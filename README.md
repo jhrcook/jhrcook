@@ -7,7 +7,7 @@
 <a href="https://orcid.org/0000-0001-9815-6879" target="blank"><img src="https://img.shields.io/badge/ORCID-0000--0001--9815--6879-A6CE39?logo=orcid" alt="ORCID" /></a> 
 </p>
 
-- 🔭 I’m currently working on [a summarization macOS application.](https://github.com/jhrcook/Brief)
+- 🔭 I’m currently working on [a text-summarization macOS application.](https://github.com/jhrcook/Brief)
 - 🌱 My next big project are to dabble in **sports performance analysis** and learn about the [internals of C Python](https://github.com/jhrcook/cpython).
 - 👯 I’m looking to collaborate on [a weather forecast accuracy prediction analysis.](https://github.com/jhrcook/weather-forecast-analysis)
 - 👨‍💻 All of my projects and other articles are available on my [website](https://joshuacook.netlify.app).
@@ -63,7 +63,7 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhrcook&show_icons=true&locale=en&layout=compact" alt="jhrcook" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhrcook&show_icons=true&locale=en&layout=compact&hide=TeX,Jupyter Notebook,html&langs_count=6" alt="jhrcook" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhrcook&show_icons=true&locale=en" alt="jhrcook" /></p>
 
