@@ -7,12 +7,12 @@
 <a href="https://orcid.org/0000-0001-9815-6879" target="blank"><img src="https://img.shields.io/badge/ORCID-0000--0001--9815--6879-A6CE39?logo=orcid" alt="ORCID" /></a> 
 </p>
 
-- 🔭 I’m currently working on [a text-summarization macOS application.](https://github.com/jhrcook/Brief)
-- 🌱 My next big project are to dabble in **sports performance analysis** and learn about the [internals of C Python](https://github.com/jhrcook/cpython).
+- 🔭 I’m currently working on [a text-summarization macOS application](https://github.com/jhrcook/Brief) and [taking notes on PyCon 2021 and WWDC 2021 sessions](https://github.com/jhrcook/conference-notes).
+- 🌱 My next exploratory projects are to dabble in **sports performance analysis** and learn about the [internals of C Python](https://github.com/jhrcook/cpython).
 - 👯 I’m looking to collaborate on [a weather forecast accuracy prediction analysis.](https://github.com/jhrcook/weather-forecast-analysis)
 - 👨‍💻 All of my projects and other articles are available on my [website](https://joshuacook.netlify.app).
 - 💬 Ask me about **Bayesian data analysis.**
-- 📄 Checkout my [CV](https://joshuacook.netlify.app/files/cv.pdf)
+- 📄 Checkout my [CV](https://joshuacook.netlify.app/files/cv.pdf).
 
 <h3 align="left">Languages and Tools</h3>
 
@@ -26,21 +26,30 @@
 
 <h4 align="left">Data Science Tools</h4>
 
-<a href="https://docs.pymc.io" target="_blank"> <img src="https://cdn.rawgit.com/pymc-devs/pymc3/master/docs/logos/svg/PyMC3_banner.svg" alt="bash" height="40"/> </a>
-<a href="https://mc-stan.org" target="_blank"> <img src="https://mc-stan.org/images/stan_logo.png" alt="bash" height="40"/> </a><a href="https://jupyter.org" target="_blank"> <img src="https://jupyter.org/assets/main-logo.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://streamlit.io" target="_blank"> <img src="https://blog.streamlit.io/content/images/size/w1000/2021/03/logomark-color.png" alt="bash" height="30"/> </a>
+<a href="https://pandas.pydata.org" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="pandas" height="40"/> </a>
+<a href="https://docs.pymc.io" target="_blank"> <img src="https://cdn.rawgit.com/pymc-devs/pymc3/master/docs/logos/svg/PyMC3_banner.svg" alt="pymc3" height="40"/> </a>
+<a href="https://mc-stan.org" target="_blank"> <img src="https://mc-stan.org/images/stan_logo.png" alt="stan" height="40"/> </a><a href="https://jupyter.org" target="_blank"> <img src="https://jupyter.org/assets/main-logo.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://streamlit.io" target="_blank"> <img src="https://blog.streamlit.io/content/images/size/w1000/2021/03/logomark-color.png" alt="streamlit" height="30"/> </a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 
 <h4 align="left">Other Software</h4>
 
-<a href="https://code.visualstudio.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/300px-Visual_Studio_Code_1.35_icon.svg.png" alt="git" width="40" height="40"/> </a>
+<a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" height="40"/> </a>
+<a href="https://developer.apple.com/xcode/swiftui/" target="_blank"> <img src="https://s3.amazonaws.com/revue/profiles/images/000/057/722/thumb/swiftui.png?1584143811" alt="swiftui" width="40" height="40"/> </a>
+<a href="https://snakemake.github.io" target="_blank"> <img src="https://snakemake.github.io/img/jk/logo.png" alt="snakemake" height="40"/> </a>
+
+<h4 align="left">Developer Tools</h4>
+
+<a href="https://code.visualstudio.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/300px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
+<a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Xcode_icon.png/128px-Xcode_icon.png" alt="xcode" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+
 </p>
 
 ### Blogs posts
