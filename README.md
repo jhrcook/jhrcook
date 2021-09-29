@@ -55,10 +55,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Notes on 'Deep Work'](https://joshuacook.netlify.app/post/deep-work-notes/)
+- [Mixing centered and non-centered parameterizations in a hierarchical model with PyMC3](https://joshuacook.netlify.app/post/mixed-parameterization-hierarchical-model/)
 - [Conducting a Bayesian analysis with 'rstanarm' and publishing with 'distill'](https://joshuacook.netlify.app/post/wagenmakers-analysis-description/)
 - [Xcode Logger Notes](https://joshuacook.netlify.app/post/xcode-logger-notes/)
-- [Creating a Streamlit web app, building with Docker + GitHub Actions, and hosting on Heroku](https://joshuacook.netlify.app/post/streamlit-app-heroku/)
-- [Fitting a spline with PyMC3](https://joshuacook.netlify.app/post/pymc3-spline/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
