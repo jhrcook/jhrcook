@@ -37,7 +37,7 @@
 
 <a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" height="40"/> </a>
 <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"> <img src="https://s3.amazonaws.com/revue/profiles/images/000/057/722/thumb/swiftui.png?1584143811" alt="swiftui" width="40" height="40"/> </a>
-<a href="https://snakemake.github.io" target="_blank"> <img src="https://snakemake.github.io/img/jk/logo.png" alt="snakemake" height="40"/> </a>
+<a href="https://snakemake.github.io" target="_blank"> <img src="https://snakemake.github.io/img/jk/logo.png" alt="snakemake" height="40" style="overflow: hidden width: 40"/> </a>
 
 <h4 align="left">Developer Tools</h4>
 
