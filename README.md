@@ -55,10 +55,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up Appwrite on DigitalOcean](https://joshuacook.netlify.app/post/appwrite-digital-ocean/)
 - [Notes on 'Deep Work'](https://joshuacook.netlify.app/post/deep-work-notes/)
 - [Mixing centered and non-centered parameterizations in a hierarchical model with PyMC3](https://joshuacook.netlify.app/post/mixed-parameterization-hierarchical-model/)
 - [Conducting a Bayesian analysis with 'rstanarm' and publishing with 'distill'](https://joshuacook.netlify.app/post/wagenmakers-analysis-description/)
-- [Xcode Logger Notes](https://joshuacook.netlify.app/post/xcode-logger-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
