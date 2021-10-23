@@ -82,4 +82,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhrcook&" alt="jhrcook" /></p>
 
-
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jhrcook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
