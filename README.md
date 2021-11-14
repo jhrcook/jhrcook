@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on [a weather forecast accuracy prediction analysis.](https://github.com/jhrcook/weather-forecast-analysis)
 - 👨‍💻 All of my projects and other articles are available on my [website](https://joshuacook.netlify.app).
 - 💬 Ask me about **Bayesian data analysis.**
-- 📄 Checkout my [CV](https://joshuacook.netlify.app/files/cv.pdf).
+- 📄 Checkout my [CV](https://jhrcook.github.io/cv/).
 
 <h3 align="left">Languages and Tools</h3>
 
