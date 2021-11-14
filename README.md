@@ -55,10 +55,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Type hinting a list subclass in Python with function overloading](https://joshuacook.netlify.app/post/typehinting-list-subclass/)
 - [Setting up Appwrite on DigitalOcean](https://joshuacook.netlify.app/post/appwrite-digital-ocean/)
 - [Notes on &#39;Deep Work&#39;](https://joshuacook.netlify.app/post/deep-work-notes/)
 - [Mixing centered and non-centered parameterizations in a hierarchical model with PyMC3](https://joshuacook.netlify.app/post/mixed-parameterization-hierarchical-model/)
-- [Conducting a Bayesian analysis with &#39;rstanarm&#39; and publishing with &#39;distill&#39;](https://joshuacook.netlify.app/post/wagenmakers-analysis-description/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
