@@ -27,7 +27,7 @@
 <h4 align="left">Data Science Tools</h4>
 
 <a href="https://pandas.pydata.org" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="pandas" height="40"/> </a>
-<a href="https://docs.pymc.io" target="_blank"> <img src="https://cdn.rawgit.com/pymc-devs/pymc3/master/docs/logos/svg/PyMC3_banner.svg" alt="pymc3" height="40"/> </a>
+<a href="https://docs.pymc.io" target="_blank"> <img src="assets/logos/pymc3-logo.svg" alt="pymc3" height="40"/> </a>
 <a href="https://mc-stan.org" target="_blank"> <img src="https://mc-stan.org/images/stan_logo.png" alt="stan" height="40"/> </a><a href="https://jupyter.org" target="_blank"> <img src="https://jupyter.org/assets/main-logo.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://streamlit.io" target="_blank"> <img src="https://blog.streamlit.io/content/images/size/w1000/2021/03/logomark-color.png" alt="streamlit" height="30"/> </a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="40"/> </a>
