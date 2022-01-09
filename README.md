@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">A computational biologist at Harvard Medical School.</h3>
+<h1 align="center">Joshua Cook</h1>
+<h3 align="center">Computational biologist at Harvard Medical School.</h3>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=jhrcook&label=Profile%20views&color=0e75b6&style=flat" alt="jhrcook" />
@@ -7,12 +7,13 @@
 <a href="https://orcid.org/0000-0001-9815-6879" target="blank"><img src="https://img.shields.io/badge/ORCID-0000--0001--9815--6879-A6CE39?logo=orcid" alt="ORCID" /></a> 
 </p>
 
-- 🔭 I’m currently working on [a text-summarization macOS application](https://github.com/jhrcook/Brief) and [taking notes on PyCon 2021 and WWDC 2021 sessions](https://github.com/jhrcook/conference-notes).
-- 🌱 My next exploratory projects are to dabble in **sports performance analysis** and learn about the [internals of C Python](https://github.com/jhrcook/cpython).
-- 👯 I’m looking to collaborate on [a weather forecast accuracy prediction analysis.](https://github.com/jhrcook/weather-forecast-analysis)
-- 👨‍💻 All of my projects and other articles are available on my [website](https://joshuacook.netlify.app).
-- 💬 Ask me about **Bayesian data analysis.**
-- 📄 Checkout my [CV](https://jhrcook.github.io/cv/).
+🔭 I am currently working on a project comparing different [ML/AI summarization methods on scientific articles](https://github.com/jhrcook/sci-article-summarization) and finishing up the [Bayesian Data Analysis course](https://github.com/jhrcook/bayesian-data-analysis-course).
+
+🖥 All of my projects and other articles are available on my [website](https://joshuacook.netlify.app).
+
+📄 Checkout my [CV](https://jhrcook.github.io/cv/).
+
+---
 
 <h3 align="left">Languages and Tools</h3>
 
@@ -28,7 +29,8 @@
 
 <a href="https://pandas.pydata.org" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="pandas" height="40"/> </a>
 <a href="https://docs.pymc.io" target="_blank"> <img src="assets/logos/pymc3-logo.svg" alt="pymc3" height="40"/> </a>
-<a href="https://mc-stan.org" target="_blank"> <img src="https://mc-stan.org/images/stan_logo.png" alt="stan" height="40"/> </a><a href="https://jupyter.org" target="_blank"> <img src="https://jupyter.org/assets/main-logo.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://mc-stan.org" target="_blank"> <img src="https://mc-stan.org/images/stan_logo.png" alt="stan" height="40"/> </a>
+<a href="https://jupyter.org" target="_blank"> <img src="assets/logos/jupyter-logo.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://streamlit.io" target="_blank"> <img src="https://blog.streamlit.io/content/images/size/w1000/2021/03/logomark-color.png" alt="streamlit" height="30"/> </a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
