@@ -57,10 +57,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SwiftBar plugin for storing text snippets](https://joshuacook.netlify.app/post/oft-copy-swiftbar-plugin/)
 - [Type hinting a list subclass in Python with function overloading](https://joshuacook.netlify.app/post/typehinting-list-subclass/)
 - [Setting up Appwrite on DigitalOcean](https://joshuacook.netlify.app/post/appwrite-digital-ocean/)
 - [Notes on &#39;Deep Work&#39;](https://joshuacook.netlify.app/post/deep-work-notes/)
-- [Mixing centered and non-centered parameterizations in a hierarchical model with PyMC3](https://joshuacook.netlify.app/post/mixed-parameterization-hierarchical-model/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
