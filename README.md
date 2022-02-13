@@ -7,9 +7,9 @@
 <a href="https://orcid.org/0000-0001-9815-6879" target="blank"><img src="https://img.shields.io/badge/ORCID-0000--0001--9815--6879-A6CE39?logo=orcid" alt="ORCID" /></a> 
 </p>
 
-🔭 I am currently working on a project comparing different [ML/AI summarization methods on scientific articles](https://github.com/jhrcook/sci-article-summarization) and finishing up the [Bayesian Data Analysis course](https://github.com/jhrcook/bayesian-data-analysis-course).
+🔭 I am currently working on a project comparing different [ML/AI summarization methods on scientific articles](https://github.com/jhrcook/sci-article-summarization) and [webscraping data from Goodreads](https://github.com/jhrcook/scrapegoodreads).
 
-🖥 All of my projects and other articles are available on my [website](https://joshuacook.netlify.app).
+🖥 All of my projects and other articles are available on my [website](https://joshuacook.netlify.app) with a specific page summarizing my [Bayesian data analysis](https://joshuacook.netlify.app/project/bayesian-data-analysis/) work.
 
 📄 Checkout my [CV](https://jhrcook.github.io/cv/).
 
