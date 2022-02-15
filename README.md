@@ -57,10 +57,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PyMC3 MCMC performance with and without Theano&#39;s NumPy BLAS warning](https://joshuacook.netlify.app/post/theano-blas-warning/)
 - [Non-linear model of serial dilutions with Stan](https://joshuacook.netlify.app/post/stan-serial-dilution/)
 - [SwiftBar plugin for storing text snippets](https://joshuacook.netlify.app/post/oft-copy-swiftbar-plugin/)
 - [Type hinting a list subclass in Python with function overloading](https://joshuacook.netlify.app/post/typehinting-list-subclass/)
-- [Setting up Appwrite on DigitalOcean](https://joshuacook.netlify.app/post/appwrite-digital-ocean/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
