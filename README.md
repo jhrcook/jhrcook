@@ -58,7 +58,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Experimenting with multi-level and hierarchical splines in PyMC](https://joshuacook.netlify.app/post/pymc-multilevel-spline/)
-- [PyMC3 MCMC performance with and without Theano&#39;s NumPy BLAS warning](https://joshuacook.netlify.app/post/theano-blas-warning/)
+- [PyMC3 MCMC performance with and without Theano&#39;s NumPy BLAS warning &lpar;updated with PyMC v4 comparison!&rpar;](https://joshuacook.netlify.app/post/theano-blas-warning/)
 - [Non-linear model of serial dilutions with Stan](https://joshuacook.netlify.app/post/stan-serial-dilution/)
 - [SwiftBar plugin for storing text snippets](https://joshuacook.netlify.app/post/oft-copy-swiftbar-plugin/)
 <!-- BLOG-POST-LIST:END -->
