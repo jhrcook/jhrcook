@@ -67,7 +67,7 @@
 
 <p align="left">
 <a href="https://twitter.com/joshdoesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joshdoesa" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/joshuahrcook" target="blank"><img align="center" src="assets/logos/linked-in-logo.png" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/joshuahrcook" target="blank"><img align="center" src="assets/logos/linked-in-logo.png" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://dev.to/jhrcook" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jhrcook" height="30" width="40" /></a>
 <a href="https://instagram.com/bostonprick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bostonprick" height="30" width="40" /></a>
 <a href="/https://joshuacook.netlify.app/post/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://joshuacook.netlify.app/post/index.xml" height="30" width="40" /></a>
