@@ -11,7 +11,7 @@
 
 🖥 All of my projects and other articles are available on my [website](https://joshuacook.netlify.app) with a specific page summarizing my [Bayesian data analysis](https://joshuacook.netlify.app/project/bayesian-data-analysis/) work.
 
-📄 Checkout my [CV](https://jhrcook.github.io/cv/).
+📄 Checkout my [CV](https://joshuacook.netlify.app/files/Joshua%20Cook%20CV.pdf).
 
 ---
 
@@ -28,7 +28,7 @@
 <h4 align="left">Data Science Tools</h4>
 
 <a href="https://pandas.pydata.org" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="pandas" height="40"/> </a>
-<a href="https://docs.pymc.io" target="_blank"> <img src="assets/logos/pymc3-logo.svg" alt="pymc3" height="40"/> </a>
+<a href="https://docs.pymc.io" target="_blank"> <img src="assets/logos/pymc-logo.png" alt="PyMC" height="40"/> </a>
 <a href="https://mc-stan.org" target="_blank"> <img src="https://mc-stan.org/images/stan_logo.png" alt="stan" height="40"/> </a>
 <a href="https://jupyter.org" target="_blank"> <img src="assets/logos/jupyter-logo.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://streamlit.io" target="_blank"> <img src="https://blog.streamlit.io/content/images/size/w1000/2021/03/logomark-color.png" alt="streamlit" height="30"/> </a>
@@ -67,6 +67,7 @@
 
 <p align="left">
 <a href="https://twitter.com/joshdoesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joshdoesa" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/joshuahrcook" target="blank"><img align="center" src="assets/logos/linked-in-logo.png" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://dev.to/jhrcook" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jhrcook" height="30" width="40" /></a>
 <a href="https://instagram.com/bostonprick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bostonprick" height="30" width="40" /></a>
 <a href="/https://joshuacook.netlify.app/post/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://joshuacook.netlify.app/post/index.xml" height="30" width="40" /></a>
