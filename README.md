@@ -7,11 +7,17 @@
 <a href="https://orcid.org/0000-0001-9815-6879" target="blank"><img src="https://img.shields.io/badge/ORCID-0000--0001--9815--6879-A6CE39?logo=orcid" alt="ORCID" /></a> 
 </p>
 
-🔭 I am currently working on a project comparing different [ML/AI summarization methods on scientific articles](https://github.com/jhrcook/sci-article-summarization) and [webscraping data from Goodreads](https://github.com/jhrcook/scrapegoodreads).
+> <span style="color:#652A6A"> I will graduating from my Ph.D. program at Harvard Medical School in late November and am currently **looking for future employment**.
+> I am looking for **computational biology and data science positions**.
+> If you are actively recruiting or know of a job I might be interested in, please contact me through the email form on my [website](https://joshuacook.netlify.app/#contact) or [LinkedIn](https://www.linkedin.com/in/joshuahrcook). </span>
 
-🖥 All of my projects and other articles are available on my [website](https://joshuacook.netlify.app) with a specific page summarizing my [Bayesian data analysis](https://joshuacook.netlify.app/project/bayesian-data-analysis/) work.
+🔭 I am currently working on a project experimenting with the generative model of spatial transcriptomic clonality 'Tumoroscope' by rebuilding it in PyMC – my [experimentation notebook](https://github.com/jhrcook/pymc-tumoroscope) runs some simulations and I am working on releasing the PyMC implementation as a Python package: [`tumoroscope-pymc`](https://github.com/jhrcook/tumoroscope-pymc).
 
-📄 Checkout my [CV](https://joshuacook.netlify.app/files/Joshua%20Cook%20CV.pdf).
+📦 I recently built the [`nciraspw`](https://github.com/jhrcook/nciraspw) package to expose the [NCI Ras Inititive's Ras Pathway 2.0](https://www.cancer.gov/research/key-initiatives/ras/ras-central/blog/2015/ras-pathway-v2) as a [NetworkX](https://networkx.org/) graph object for analysis.
+
+🖥 All of my **projects and other articles** are available on my [website](https://joshuacook.netlify.app) with a specific page summarizing my [Bayesian data analysis](https://joshuacook.netlify.app/project/bayesian-data-analysis/) work.
+
+📄 Checkout my [**CV**](https://joshuacook.netlify.app/files/Joshua%20Cook%20CV.pdf).
 
 ---
 
