@@ -1,15 +1,11 @@
 <h1 align="center">Joshua Cook</h1>
-<h3 align="center">Computational biologist at Harvard Medical School.</h3>
+<h3 align="center">Computational genomics researcher at <a href=https://www.vrtx.com>Vertex Pharmaceuticals</a>.</h3>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=jhrcook&label=Profile%20views&color=0e75b6&style=flat" alt="jhrcook" />
 <a href="https://twitter.com/joshdoesa" target="blank"><img src="https://img.shields.io/twitter/follow/joshdoesa?logo=twitter&style=flat" alt="joshdoesa" /></a> 
 <a href="https://orcid.org/0000-0001-9815-6879" target="blank"><img src="https://img.shields.io/badge/ORCID-0000--0001--9815--6879-A6CE39?logo=orcid" alt="ORCID" /></a> 
 </p>
-
-> <span style="color:#652A6A"> I will graduating from my Ph.D. program at Harvard Medical School in late November and am currently **looking for future employment**.
-> I am looking for **computational biology and data science positions**.
-> If you are actively recruiting or know of a job I might be interested in, please contact me through the email form on my [website](https://joshuacook.netlify.app/#contact) or [LinkedIn](https://www.linkedin.com/in/joshuahrcook). </span>
 
 🔭 I am currently working on a project experimenting with the generative model of spatial transcriptomic clonality 'Tumoroscope' by rebuilding it in PyMC – my [experimentation notebook](https://github.com/jhrcook/pymc-tumoroscope) runs some simulations and I am working on releasing the PyMC implementation as a Python package: [`tumoroscope-pymc`](https://github.com/jhrcook/tumoroscope-pymc).
 
