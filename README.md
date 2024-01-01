@@ -10,20 +10,20 @@
 **For more information about myself, interests, and hobbies, checkout my [website](https://joshuacook.netlify.app), [CV](https://joshuacook.netlify.app/files/Joshua%20Cook%20CV.pdf), or [resume](https://rxresu.me/jhrcook/joshua-cook-resume) (updates and tailored resumes coming soon).**
 **Feel free to get in touch!**
 
+---
+
 ### 👨🏻‍💻 Projects
 
 Currently, I'm working on the [2023 Advent of Code](https://github.com/jhrcook/advent-of-code-2023-rust) in my attempt to learn the Rust programming language.
 
 To learn new skills and play with fun tools, I have worked on a variety of personal side-projects including
 
-- building a [web API](https://github.com/jhrcook/coffee-counter-api), [web interface](https://github.com/jhrcook/coffee-counter-streamlit), and [SwiftBar plugin](https://github.com/jhrcook/SwiftBar-Plugins/blob/master/coffee-tracker.1h.py) for tracking my coffee consumption.
+- building a [web API](https://github.com/jhrcook/coffee-counter-api), [web interface](https://github.com/jhrcook/coffee-counter-streamlit), and [SwiftBar plugin](https://github.com/jhrcook/SwiftBar-Plugins/blob/master/coffee-tracker.1h.py) for tracking my coffee consumption,
 - a [comparison of ML methods for summarizing scientific articles](https://github.com/jhrcook/sci-article-summarization),
-- [experimenting with](https://github.com/jhrcook/pymc-tumoroscope) and [packaging](https://github.com/jhrcook/tumoroscope-pymc) the 'tumoroscope' model in PyMC (a probabilistic programming language in Python for building Bayesian models and performing MCMC)
+- [experimenting with](https://github.com/jhrcook/pymc-tumoroscope) and [packaging](https://github.com/jhrcook/tumoroscope-pymc) the 'tumoroscope' model in PyMC (a probabilistic programming language in Python for building Bayesian models and performing MCMC),
 - and a R package ['mustashe'](https://github.com/jhrcook/mustashe) for intelligently caching computed results.
 
 I've also made small contributions to other projects such as [snakemake](https://github.com/snakemake/snakemake) and the Fig [autocomplete](https://github.com/withfig/autocomplete) repository.
-
----
 
 ### 📝 Blogs posts
 
