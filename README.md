@@ -25,7 +25,7 @@ To learn new skills and play with fun tools, I have worked on a variety of perso
 
 I've also made small contributions to other projects such as [snakemake](https://github.com/snakemake/snakemake) and the Fig [autocomplete](https://github.com/withfig/autocomplete) repository.
 
-### 📝 Blogs posts
+### 📝 Most recent blogs posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Experimenting with multi-level and hierarchical splines in PyMC](https://joshuacook.netlify.app/post/pymc-multilevel-spline/)
@@ -33,6 +33,8 @@ I've also made small contributions to other projects such as [snakemake](https:/
 - [Non-linear model of serial dilutions with Stan](https://joshuacook.netlify.app/post/stan-serial-dilution/)
 - [SwiftBar plugin for storing text snippets](https://joshuacook.netlify.app/post/oft-copy-swiftbar-plugin/)
 <!-- BLOG-POST-LIST:END -->
+
+All of my blog posts can be found [here](https://joshuacook.netlify.app/post/).
 
 ### 📞 Connect with me
 
