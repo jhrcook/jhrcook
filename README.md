@@ -55,17 +55,17 @@ All of my blog posts can be found [here](https://joshuacook.netlify.app/post/).
 ---
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhrcook&hide_progress=true" alt="GitHub language statistics." />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhrcook&hide_progress=true" alt="GitHub language statistics."/>
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhrcook&show_icons=true&bg_color=00000000&locale=en" alt="GitHub user statistics." />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhrcook&show_icons=true&bg_color=00000000&locale=en" alt="GitHub user statistics."/>
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhrcook" alt="GitHub streak" />
+    <img align="center" src="https://streak-stats.demolab.com/?user=jhrcook" alt="GitHub streak"/>
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jhrcook&layout=compact" alt="Wakatime statistics" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jhrcook&layout=compact" alt="Wakatime statistics"/>
 </p>
