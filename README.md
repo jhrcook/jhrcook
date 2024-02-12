@@ -28,11 +28,11 @@ I've also made small contributions to other projects such as [snakemake](https:/
 ### 📝 Most recent blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Favorite apps on my Mac](https://joshuacook.netlify.app/post/favorite-apps/)
 - [Quickstart for playing with LLMs locally](https://joshuacook.netlify.app/post/ollama-quickstart/)
 - [Favorite books of 2023](https://joshuacook.netlify.app/post/2023-book-review/)
 - [Build and push a Rust project to Deta on GitHub Actions](https://joshuacook.netlify.app/post/rust-deta-push/)
 - [Leveraging generic type hints of classes in Python](https://joshuacook.netlify.app/post/generic-typehinting-classes/)
-- [Dirichlet Regression with PyMC](https://joshuacook.netlify.app/post/dirichlet-regression-pymc/)
 <!-- BLOG-POST-LIST:END -->
 
 All of my blog posts can be found [here](https://joshuacook.netlify.app/post/).
